@@ -139,7 +139,7 @@ fun GreetingCard() {
                             )
 
                             Spacer(modifier = Modifier.height(12.dp))
-                            
+
                             Box(
                                 modifier = Modifier
                                     .clip(RoundedCornerShape(8.dp))

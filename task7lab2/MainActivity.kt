@@ -12,7 +12,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             MaterialTheme {
                 Surface {
-                    StudentIdScreen()
+                    AttendanceCounter()
                 }
             }
         }

@@ -12,7 +12,8 @@ class MainActivity : ComponentActivity() {
         setContent {
             MaterialTheme {
                 Surface {
-                    AttendanceCounter()
+                    GreetingCard()
+
                 }
             }
         }
